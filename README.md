@@ -1,4 +1,5 @@
 Wireless Security Testing and Hardening Guide
+
 #Overview
 <img src="https://raw.githubusercontent.com/amoskim318/Wireless_Security_Testing_And_Hardening/main/res/overview.jpg" width="1000">
 Amos Kim — Network Security / Penetration Testing
@@ -27,8 +28,8 @@ All testing must be restricted to wireless networks and devices that you own or 
 https://github.com/amoskim318/Wireless_Security_Testing_And_Hardening/wiki
 ---
 
-[![Version](https://img.shields.io/badge/Wireless_security_all-brightgreen.svg?maxAge=259200)]()
+[![Topic](https://img.shields.io/badge/Wireless_security-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/WPA2-Target-red.svg?maxAge=259200)]()
-[![Supported OS](https://img.shields.io/badge/Android-Testing-brightgreen.svg)]()
+[![Supported OS](https://img.shields.io/badge/Mac-os_windows_linux-brightgreen.svg)]()
 [![Documentation](https://img.shields.io/badge/https://github.com/amoskim318/Wireless_Security_Testing_And_Hardening/wiki-blue.svg?maxAge=259200)](https://github.com/ManhNho/CEHv10/tree/master/Slides)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
